@@ -1,6 +1,6 @@
 {
   "name": "dashifen/semver",
-  "description": "An object that extends the PHLAK\\SemVer object to add some useful behaviors.",
+  "description": " A object that encapsulates logic based on semantic versioning.",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
