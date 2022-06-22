@@ -1,5 +1,5 @@
 {
-  "name": "dashifen/semver",
+  "name": "dashifen/version",
   "description": " A object that encapsulates logic based on semantic versioning.",
   "minimum-stability": "stable",
   "license": "MIT",
