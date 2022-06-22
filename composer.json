@@ -1,0 +1,24 @@
+{
+  "name": "dashifen/semver",
+  "description": "An object that extends the PHLAK\\SemVer object to add some useful behaviors.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Dashifen Kees",
+      "email": "dashifen@dashifen.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Dashifen\\Version\\": "src"
+    }
+  },
+  "require": {
+    "phlak/semver": "^4.0"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
